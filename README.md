@@ -1,6 +1,6 @@
 Live downloads, compilable sources.
 
-[User Guide](https://github.com/SwensenSoftware/im-only-resting/wiki) | [Downloads](https://raw.githubusercontent.com/alviy/im-only-resting/asset/downloads/im-only-resting.zip) | [Release Notes](https://github.com/SwensenSoftware/im-only-resting/wiki/ReleaseNotes) | [Issues](../../issues)
+[User Guide](https://github.com/SwensenSoftware/im-only-resting/wiki) | [Downloads](https://github.com/alviy/im-only-resting/releases/download/2.0.1/im-only-resting-2.0.1.zip) | [Release Notes](https://github.com/SwensenSoftware/im-only-resting/wiki/ReleaseNotes) | [Issues](../../issues)
 
 ---
 
